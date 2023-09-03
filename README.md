@@ -1,0 +1,1 @@
+# dj-ninja-vue3-auth0
